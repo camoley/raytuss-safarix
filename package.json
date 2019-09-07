@@ -13,11 +13,9 @@
     "weather-js": "2.0.0",
     "ytdl-core": "0.29.6",
     "yt-search": "0.4.1",
-    "ffmpeg-binaries": "4.0.0",
     "opusscript": "0.0.7",
     "fs": "0.0.1-security",
     "ms": "2.1.2",
     "ascii-art": "1.5.1",
-    "ffmpeg": "0.0.4"
   }
 }
