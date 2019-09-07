@@ -1,12 +1,11 @@
-
 {
   "name": "raytuss-safarix",
-  "description": "A Discord bot coded in Discord.JS",
   "version": "1.0.0",
+  "description": "A Discord bot coded in Discord.JS",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-  }
+  "author": "camoley",
+  "license": "ISC"
 }
