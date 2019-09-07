@@ -1,0 +1,224 @@
+{
+    "AddRole": {
+        "name":"AddRole",
+        "group":"Admin",
+        "desc":"Etiketlenen kişiye istenilen rolü verir.",
+        "usage":"addrole <@user> <rol adı>"
+    },
+
+    "Ascii": {
+        "name":"Ascii",
+        "group":"Admin",
+        "desc":"İstenilen yazıyı şekilli yazar.",
+        "usage":"ascii <çizilmesi istenen kelime>"
+    },
+
+    "Ban": {
+        "name":"Ban",
+        "group":"Admin",
+        "desc":"Etiketlenen kişiyi sunucudan atar.",
+        "usage":"ban <@user> <sebep>"
+    },
+
+    "Bilgi": {
+        "name":"Bilgi",
+        "group":"User",
+        "desc":"Sunucu bilgilerini gösterir.",
+        "usage":"bilgi"
+    },
+
+    "Clear": {
+        "name":"Clear",
+        "group":"Admin",
+        "desc":"Belirtilen sayı kadar cümle siler.",
+        "usage":"clear <silinecek mesaj sayısı>"
+    },
+
+    "Dice": {
+        "name":"Dice",
+        "group":"User",
+        "desc":"Zar atar.",
+        "usage":"dice"
+    },
+
+    "DM": {
+        "name":"DM",
+        "group":"Admin",
+        "desc":"İstenilen kişiye DM'den mesaj gönderir.",
+        "usage":"dm <@user> <gönderilecek mesaj>"
+    },
+
+    "Duyuru": {
+        "name":"Duyuru",
+        "group":"Admin",
+        "desc":"Duyuru yapar.",
+        "usage":"duyuru <cümle>"
+    },
+
+    "Help": {
+        "name":"Help",
+        "group":"User",
+        "desc":"Komutları gösterir ve komutlar hakkında bilgi verir.",
+        "usage":"help <grup / komut>"
+    },
+
+    "Kick": {
+        "name":"Kick",
+        "group":"Admin",
+        "desc":"Etiketlenen kişiyi sunucudan atar.",
+        "usage":"kick <@user> <sebep>"
+    },
+
+    "Leave": {
+        "name":"Leave",
+        "group":"User",
+        "desc":"Bot bağlı olduğu ses kanalından ayrılır.",
+        "usage":"leave"
+    },
+
+    "Level": {
+        "name":"Level",
+        "group":"User",
+        "desc":"Seviyenizi ve xp'nizi gösterir.",
+        "usage":"level"
+    },
+
+    "Mute": {
+        "name":"Mute",
+        "group":"Admin",
+        "desc":"Etiketlenen kişiyi belirtilen süre kadar susturur.",
+        "usage":"mute <@user> <süre>"
+    },
+
+    "Pause": {
+        "name":"Pause",
+        "group":"User",
+        "desc":"Çalınan şarkıyı durdurur.",
+        "usage":"pause"
+    },
+
+    "Ping": {
+        "name":"Ping",
+        "group":"Admin",
+        "desc":"Anlık ping verilerini gösterir.",
+        "usage":"ping"
+    },
+
+    "Play": {
+        "name":"Play",
+        "group":"User",
+        "desc":"İstenilen şarkıyı oynatır.",
+        "usage":"play <video ismi / link>"
+    },
+
+    "Poll": {
+        "name":"Poll",
+        "group":"Admin",
+        "desc":"Evet ya da Hayır şeklinde oylama yapar.",
+        "usage":"poll <oylanacak cümle>"
+    },
+
+    "Queue": {
+        "name":"Queue",
+        "group":"User",
+        "desc":"Şarkı sırasını gösterir.",
+        "usage":"queue"
+    },
+
+    "RemoveRole": {
+        "name":"RemoveRole",
+        "group":"Admin",
+        "desc":"Etiketlenen kişiden istenilen rolü alır.",
+        "usage":"removerole <@user> <rol adı>"
+    },
+
+    "Report": {
+        "name":"Report",
+        "group":"User",
+        "desc":"Etiketlenen kişiyi sebebi ile rapor eder.",
+        "usage":"report <@user> <sebep>"
+    },
+
+    "Resim": {
+        "name":"Resim",
+        "group":"User",
+        "desc":"Etiketlenen kişinin resmini gösterir.",
+        "usage":"resim <@user>"
+    },
+
+    "Resume": {
+        "name":"Resume",
+        "group":"User",
+        "desc":"Durdurulan şarkıyı devam ettirir.",
+        "usage":"resume"
+    },
+
+    "Say": {
+        "name":"Say",
+        "group":"Admin",
+        "desc":"İstenilen cümle bot tarafından yazılır.",
+        "usage":"say <botun yazmasını istediğiniz mesaj>"
+    },
+
+    "Search": {
+        "name":"Search",
+        "group":"User",
+        "desc":"Cümle şeklinde şarı aratılır.",
+        "usage":"search <cideo adı>"
+    },
+
+    "Setprefix": {
+        "name":"Setprefix",
+        "group":"Admin",
+        "desc":"Sunucu için geçerli olan prefixi değiştirir.",
+        "usage":"setprefix <istenilen prefix>"
+    },
+
+    "Skip": {
+        "name":"Skip",
+        "group":"User",
+        "desc":"Oynatılan şarkıyı geçer.",
+        "usage":"skip"
+    },
+
+    "Sunucubilgi": {
+        "name":"Sunucubilgi",
+        "group":"User",
+        "desc":"Sunucu bilgilerini gösterir.",
+        "usage":"sunucubilgi"
+    },
+
+    "Volume": {
+        "name":"Volume",
+        "group":"User",
+        "desc":"Botun ses kanalındaki sesini arttırır.",
+        "usage":"volume <istenilen ses seviyesi>"
+    },
+
+    "Vskip": {
+        "name":"Vskip",
+        "group":"User",
+        "desc":"Oynatılan şarkıyı geçmek için oylama başlatır.",
+        "usage":"vskip"
+    },
+
+    "Weather": {
+        "name":"Weather",
+        "group":"User",
+        "desc":"Belirtilen konumun hava durumunu gösterir.",
+        "usage":"weather <konum>"
+    },
+    "Invite": {
+        "name":"Invite",
+        "group":"User",
+        "desc":"Botu sunucunuza ekleme linkini gönderir.",
+        "usage":"invite"
+    },
+    "Serverinvite": {
+        "name":"Serverinvite",
+        "group":"User",
+        "desc":"Raytuss Safarix sunucusunun davet linkini gönderir.",
+        "usage":"serverinvite"
+    }
+    
+}
