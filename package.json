@@ -9,4 +9,5 @@
   "author": "camoley",
   "license": "ISC",
   "dependencies": {
+     "discord.js": "11.5.1"
 }
