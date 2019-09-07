@@ -1,6 +1,6 @@
 const ytdl = require('ytdl-core');
 
-exports.run = async (client, message, args, ops) => {
+exports.run = (client, message, args, ops) => {
     if(!message.member.voiceChannel) return message.channel.send(':warning: **Bu komutu kullanmak için bir ses kanalında olmak zorundasın!**');
 
     if(!args[0]) return message.channel.send(':warning: **Lütfen bir link gir veya istediğin şarkının adını yaz!**')
