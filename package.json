@@ -17,6 +17,6 @@
     "ms": "2.1.2",
     "ascii-art": "1.5.1",
     "node-opus": "0.3.2",
-    "ffmpeg-binaries": "4.0.0"
+    "ffmpeg-binaries": "3.2.2-3"
   }
 }
