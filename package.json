@@ -1,0 +1,21 @@
+
+{
+  "name": "raytuss-safarix",
+  "description": "A Discord bot coded in Discord.JS",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "11.5.1",
+    "ms": "2.1.2",
+    "ascii-art": "1.5.1",
+    "fs": "0.0.1-security",
+    "ytdl-core": "0.29.6",
+    "yt-search": "0.4.1",
+    "weather-js: "2.0.0",
+    "ffmpeg-binaries": "4.0.0",
+    "opusscript": "0.0.7"
+  }
+}
