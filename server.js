@@ -128,7 +128,7 @@ client.on("ready", () => {
 
     log(`${client.user.tag} has started with ${client.guilds.size} guilds and ${client.users.size} users .`);
 
-//    client.user.setActivity("camoley#4464'ü", { type: "LISTENING" })
+    client.user.setActivity("camoley#4464'ü", { type: "LISTENING" })
 
 });
 
