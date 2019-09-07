@@ -18,6 +18,6 @@
     "ms": "2.1.2",
     "ascii-art": "1.5.1",
     "ffmpeg": "0.0.4",
-    "ffmpeg-binaries": "3.2.2-3"
+    "ffmpeg-binaries": "^3.2.2-3"
   }
 }
