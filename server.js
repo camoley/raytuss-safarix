@@ -168,4 +168,4 @@ client.on('guildMemberRemove', member => {
     //client.channels.get(serverStats.botCountID).setName(`📥 Bot Sayısı : ${member.guild.members.filter(m => m.user.bot).size}`);
 });
 
-client.login("TOKEN");
+client.login(process.env.BOT_TOKEN);
