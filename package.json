@@ -16,6 +16,7 @@
     "fs": "0.0.1-security",
     "ms": "2.1.2",
     "ascii-art": "1.5.1",
-    "node-opus": "0.3.2"
+    "node-opus": "0.3.2",
+    "ffmpeg": "0.0.4"
   }
 }
