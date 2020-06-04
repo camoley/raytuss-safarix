@@ -9,13 +9,13 @@
   "author": "camoley",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "11.5.1",
+    "discord.js": "12.2.0",
     "weather-js": "2.0.0",
-    "ytdl-core": "1.0.3",
-    "yt-search": "0.4.1",
+    "ytdl-core": "3.1.1",
+    "yt-search": "1.1.2",
     "fs": "0.0.1-security",
     "ms": "2.1.2",
-    "ascii-art": "1.5.1",
+    "ascii-art": "2.5.0",
     "node-opus": "0.3.2",
     "ffmpeg-binaries": "3.2.2-2"
   }
