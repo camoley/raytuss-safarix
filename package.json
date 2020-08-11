@@ -17,6 +17,6 @@
     "ms": "2.1.2",
     "ascii-art": "2.5.0",
     "@discordjs/opus": "0.3.2",
-    "ffmpeg-static": "4.2.6"
+    "ffmpeg-binaries": "3.2.2-3"
   }
 }
