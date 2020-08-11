@@ -16,7 +16,7 @@
     "fs": "0.0.1-security",
     "ms": "2.1.2",
     "ascii-art": "2.5.0",
-    "opusscript": "0.0.7",
+    "@discordjs/opus": "0.3.2",
     "ffmpeg-binaries": "3.2.2-3"
   }
 }
